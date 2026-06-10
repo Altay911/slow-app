@@ -27,7 +27,7 @@ A mobile app for night people. A grounding tool — not a motivation app. Just a
 
 ## Building in public
 
-Following every milestone on [LinkedIn](www.linkedin.com/in/altay-baghirov-02a938335).
+Following every milestone on [LinkedIn](www.linkedin.com/in/altay-baghirov-02a938335)
 
 ---
 
